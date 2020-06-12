@@ -1,0 +1,18 @@
+{
+  "name": "nn-blocket",
+  "description": "my first blocklet for coding test.",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "nn <nshen121@gmail.com> (http://github.com/nshen)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "nn-blocket",
+  "description": "my first blocklet for coding test.",
+  "group": "dapp",
+  "color": "primary",
+  "keywords": [],
+  "author": "nn <nshen121@gmail.com> (http://github.com/nshen)",
+  "provider": "community",
+  "requiredEnvironments": [
+    {
+      "name": "END_POINT",
+      "description": "END POINT",
+      "required": true,
+      "default": "playground.network.arcblockio.cn/api"
+    }
+  ],
+  "admin_url": "",
+  "config_url": "",
+  "public_url": "/",
+  "doc_url": ""
+}
