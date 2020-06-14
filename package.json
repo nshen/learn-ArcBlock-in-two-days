@@ -4,11 +4,15 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build:server": "tsc",
+    "start": "tsc && node dist/index.js"
   },
   "author": "nn <nshen121@gmail.com> (http://github.com/nshen)",
   "license": "ISC",
   "dependencies": {
+    "@arcblock/did": "^1.2.13",
+    "@arcblock/forge-sdk": "^1.2.13",
+    "@arcblock/mcrypto": "^1.2.13",
     "@types/express": "^4.17.6",
     "express": "^4.17.1"
   },
