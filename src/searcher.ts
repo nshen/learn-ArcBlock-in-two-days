@@ -59,7 +59,6 @@ export class Searcher {
     }
 
     async getAssetState(address: string) {
-        console.log(address);
         let res: any = { type: 'Asset' };
         try {
             let [playground, xenon, zinc] = await Promise.allSettled([
