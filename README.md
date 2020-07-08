@@ -1,10 +1,10 @@
-# ArcBlock 区块基石 - 如何在两天之内学会ArcBlock区块链开发
+# 如何在两天之内学会 ArcBlock 区块链开发
 
 此项目源于一条招聘信息：
 
-`ArcBlock Node.js 远程全栈工程师`
+[ArcBlock 正在热招 Node.js 全栈工程师](https://zhuanlan.zhihu.com/p/146561992)
 
-我抱着试试看的态度发了简历，得到回复需要先做个 Coding Test。
+我抱着试试看的态度发了简历，得到回复需要先做个 `Coding Test`。
 
 我觉得没什么问题，来考吧！ 结果对方发来了一大篇 `ABT Node` 的介绍，简单说是让我做一个他们规定的 `Blocklet`
 
