@@ -1,5 +1,24 @@
 # 如何在两天之内学会 ArcBlock 区块链开发
 
+
+UPDATE： 
+
+    抱歉此项目只是一时生气为抱怨被骗子公司浪费了两天时间所创建的，无实际内容。
+    本来准备删掉，想想还是更新一下，请各位开发者不要被骗。
+    ArcBlock 共识基石 常年以美国公司，远程，高薪，高福利为由在各个开发者网站，招聘开发者，被骗者无数。 
+    实为三无公司，一共两三个人，无办公地点，白嫖开发者时间，以测试他们的站点，刷流量。 各位小心。
+
+
+---
+
+![image](https://user-images.githubusercontent.com/181506/116351291-028dc080-a826-11eb-9c4f-eba22e226955.png)
+
+
+![image](https://user-images.githubusercontent.com/181506/116351238-e38f2e80-a825-11eb-9afa-99f23e93f75b.png)
+
+
+
+
 此项目源于一条招聘信息：
 
 [ArcBlock 正在热招 Node.js 全栈工程师](https://zhuanlan.zhihu.com/p/146561992)
